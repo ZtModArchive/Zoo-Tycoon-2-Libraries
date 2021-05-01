@@ -1,0 +1,12 @@
+the following would not decompile properly and have been pieced together from two different decompiler fragments
+
+scripts
+justgavebirth.lua
+
+scenario/scripts
+photoutil.lua
+xp2_Tutorial1.lua
+xp2_Tutorial2.lua
+
+scenario/scripts/awards
+entertainmenteducation.lua
